@@ -1,4 +1,4 @@
-# OpenCV_Cpp_Tut
+# OpenCV_Tut
 
 This task is based on the tutorial available at ["LEARN OPENCV C++ in 4 HOURS | Including 3x Projects | Computer Vision"](https://www.youtube.com/watch?v=2FYm3GOonhk).
 
