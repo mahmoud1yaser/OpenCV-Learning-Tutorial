@@ -1,0 +1,30 @@
+﻿  detect_faces.cpp
+  detect_shapes.cpp
+A:\Professional\Projects\VScode\openCV_starter\openCV_starter\detect_shapes.cpp(23,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+A:\Professional\Projects\VScode\openCV_starter\openCV_starter\detect_shapes.cpp(30,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+A:\Professional\Projects\VScode\openCV_starter\openCV_starter\detect_shapes.cpp(41,20): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+A:\Professional\Projects\VScode\openCV_starter\openCV_starter\detect_shapes.cpp(54,114): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  draw.cpp
+  filter.cpp
+  gui.cpp
+  main.cpp
+A:\Professional\Projects\VScode\openCV_starter\openCV_starter\main.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  preprocessing.cpp
+  read.cpp
+  warping.cpp
+A:\Professional\Projects\VScode\openCV_starter\openCV_starter\warping.cpp(24,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+A:\Professional\Projects\VScode\openCV_starter\openCV_starter\warping.cpp(24,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating Code...
+  openCV_starter.vcxproj -> A:\Professional\Projects\VScode\openCV_starter\x64\Debug\openCV_starter.exe
